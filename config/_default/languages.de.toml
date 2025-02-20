@@ -1,17 +1,17 @@
 disabled = false
-languageCode = "uk"
-languageName = "Українська"
-weight = 1
+languageCode = "de-DE"
+languageName = "Deutsch"
+weight = 2
 
 [params]
-  displayName = "Українська"
-  isoCode = "uk"
+  displayName = "Deutsch"
+  isoCode = "de"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "/images/oberig_logo_uk@4x.png"
+  logo = "/images/oberig_logo@4x.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
-  copyright = "Copy, _right?_ ТОВАРИСТВО «ОБЕРІГ»"
+  # copyright = "Copy, _right?_ :thinking_face:"
 
 # [params.author]
 #   name = "Your name here"
