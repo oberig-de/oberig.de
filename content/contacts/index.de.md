@@ -11,7 +11,3 @@ sharingLinks: false
 ---
 
 Natalia Koziar
-
-Telefon: +4917622593651
-
-E-Mail: knata321@gmai.com
