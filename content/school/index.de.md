@@ -1,6 +1,11 @@
 ---
 title: "SAMSTAGSSCHULE"
+date: '2025-02-20T17:48:10+01:00'
 description: "Samstagsschule «Oberig»"
+showDate: false
+showViews: false
+showLikes: false
+showReadingTime: false
 ---
 
 Unser Bildungsprojekt läuft seit Januar 2025 im Testmodus.

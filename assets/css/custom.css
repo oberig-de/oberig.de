@@ -2,4 +2,5 @@
     max-height: 8rem;  /* Increase from default 5rem */
     max-width: 8rem;   /* Increase from default 5rem */
     margin-top: 2rem;  /* Adds 2rem space above the logo */
+    margin-bottom: 2rem;  /* Adds 2rem space below the logo */
 }

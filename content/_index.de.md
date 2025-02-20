@@ -1,9 +1,13 @@
 ---
 ---
 
-![ТОВАРИСТВО «ОБЕРІГ»](/images/hero.jpg)
+<p style="text-align: center;">
+    <img src="featured.jpg" alt="ТОВАРИСТВО «ОБЕРІГ»">
+</p>
 
-# ÜBER UNS
+{{< alert >}}
+Unsere Website wird gerade gebaut. Schau bald wieder vorbei! 🚀
+{{< /alert >}}
 
 Im Januar 2025 gründete eine Initiative ukrainischer und deutscher Kulturschaffender den Ukrainisch-Deutschen Verein „Oberig“, um kreative kultur- und bildungsorientierte Projekte auf einer gemeinsamen Plattform zu vereinen.  
 

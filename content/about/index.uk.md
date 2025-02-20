@@ -1,6 +1,11 @@
 ---
 title: "ТОВАРИСТВО «ОБЕРІГ»"
+date: '2025-02-20T17:48:10+01:00'
 description: "Про Товариство «Оберіг»"
+showDate: false
+showViews: false
+showLikes: false
+showReadingTime: false
 ---
 
 ## ПРО НАС
