@@ -1,0 +1,4 @@
+.logo {
+    max-height: 8rem;  /* Increase from default 5rem */
+    max-width: 8rem;   /* Increase from default 5rem */
+}
