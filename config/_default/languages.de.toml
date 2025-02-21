@@ -8,8 +8,8 @@ weight = 2
   isoCode = "de"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "/img/oberig_logo@4x.png"
-  secondaryLogo = "/img/oberig_logo_mono@4x.png"
+  logo = "/img/logo.png"
+  secondaryLogo = "/img/logo_mono.png"
   # description = "My awesome website"
   copyright = "&copy; VEREIN «OBERIG»"
 
