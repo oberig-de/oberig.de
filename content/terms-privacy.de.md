@@ -21,4 +21,4 @@ Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 Natalia Koziar  
 +4917622593651  
 +380509425112,  
-email: knata321@gmai.com
+email: kontakt@oberig.de

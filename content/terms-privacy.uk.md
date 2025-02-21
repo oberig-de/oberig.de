@@ -21,4 +21,4 @@ robots: noindex, nofollow
 Козяр Наталія  
 +4917622593651  
 +380509425112  
-email:  knata321@gmai.com
+email: kontakt@oberig.de

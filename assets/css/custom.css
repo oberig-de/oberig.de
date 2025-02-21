@@ -8,7 +8,7 @@
 @font-face {
     font-family: 'KyivRegion';
     src: url('/fonts/KyivRegion-Regular.ttf') format('truetype');
-    font-display: swap;
+    /* font-display: swap; */
 }
 
 html[lang="uk"] .main-menu, 
