@@ -1,10 +1,7 @@
 ---
 title: "ÜBER UNS"
-date: '2025-02-20T17:48:10+01:00'
 description: "Über Verein «Oberig»"
 showDate: false
-showViews: false
-showLikes: false
 showReadingTime: false
 ---
 

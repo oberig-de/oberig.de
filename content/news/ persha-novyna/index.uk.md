@@ -2,7 +2,6 @@
 date: '2025-02-20T17:48:10+01:00'
 draft: false
 title: 'Друга Новина'
-summary: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna. Nulla venenatis volutpat libero, in laoreet leo fringilla eget. Etiam consequat sed nisi sit amet interdum. Pellentesque ullamcorper at turpis in ultrices. Pellentesque et elit mauris.'
 ---
 
 ## Lorem ipsum dolor sit amet

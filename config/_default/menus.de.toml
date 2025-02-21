@@ -22,3 +22,8 @@ weight = 40
 name = "Kontakt"
 pageRef = "contacts"
 weight = 50
+
+[[footer]]
+  name = "IMPRESSUM | DATENSCHUTZ"
+  pageRef = "terms-privacy"
+  weight = 10
