@@ -5,7 +5,7 @@ title = "OBERIG"
 weight = 2
 
 [params]
-  displayName = "Deutsch"
+  displayName = ":de: DE"
   isoCode = "de"
   rtl = false
   dateFormat = "2 January 2006"
@@ -17,11 +17,11 @@ weight = 2
 [params.author]
   name = "OBERIG"
   email = "kontakt@oberig.de"
-  image = "/img/avatar.jpg"
+  image = "/img/avatar_mono.png"
 #   imageQuality = 96
   headline = "KULTURELLES BILDUNGSPROJEKT"
 #   bio = "A little bit about you"
-  # links = [
+  links = [
     # { email = "mailto:kontakt@oberig.de" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -39,7 +39,7 @@ weight = 2
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
-#     { instagram = "https://instagram.com/username" },
+    { instagram = "https://www.instagram.com/oberig.de" },
 #     { itch-io = "https://username.itch.io" },
 #     { keybase = "https://keybase.io/username" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
@@ -70,4 +70,4 @@ weight = 2
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-  # ]
+  ]

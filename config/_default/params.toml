@@ -7,7 +7,8 @@
 
 colorScheme = "blowfish"
 defaultAppearance = "light" # valid options: light or dark
-autoSwitchAppearance = true
+autoSwitchAppearance = false
+showAppearanceSwitcher = false
 
 enableSearch = true
 enableCodeCopy = false
@@ -21,7 +22,7 @@ disableImageOptimization = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
+# defaultBackgroundImage = "img/background.jpg" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
@@ -32,7 +33,7 @@ giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [header]
-  layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "fixed-fill" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -43,12 +44,12 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "/img/featured.jpg" # used in: hero, and card
+  homepageImage = "/img/background.jpg" # used in: hero, and card
   showRecent = true
-  showRecentItems = 5
+  showRecentItems = 10
   showMoreLink = false
-  showMoreLinkDest = "/news/"
-  cardView = false
+  showMoreLinkDest = ["/news/", "/projects/"]
+  cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
 
