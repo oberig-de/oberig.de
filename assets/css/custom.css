@@ -8,7 +8,7 @@
 @font-face {
     font-family: 'KyivRegion';
     src: url('/fonts/KyivRegion-Regular.ttf') format('truetype');
-    /* font-display: swap; */
+    font-display: swap;
 }
 
 html[lang="uk"] .main-menu, 
@@ -20,4 +20,19 @@ html[lang="uk"] h5,
 html[lang="uk"] h6,
 html[lang="uk"] .article .font-bold {
     font-family: 'KyivRegion', sans-serif;
+}
+
+html[lang="de"] .main-menu,
+html[lang="de"] h1, 
+html[lang="de"] h2, 
+html[lang="de"] h3, 
+html[lang="de"] h4, 
+html[lang="de"] h5, 
+html[lang="de"] h6,
+html[lang="de"] .article .font-bold {
+    font-family: 'KyivRegion', sans-serif;
+}
+
+nav.flex.space-x-3 a {
+    display: none;
 }

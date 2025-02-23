@@ -2,10 +2,6 @@
 title: "SAMSTAGSSCHULE"
 date: '2025-02-20T17:48:10+01:00'
 description: "Samstagsschule «Oberig»"
-showDate: false
-showViews: false
-showLikes: false
-showReadingTime: false
 ---
 
 **Unser Bildungsprojekt läuft im Testbetrieb seit Januar 2025.**
@@ -25,5 +21,7 @@ Wir haben 3 Altersgruppen:
 Es ist geplant, 2 Gruppen im Alter 14 -  16 und 16 -  18 Jahren zu organisieren.
 
 > Erfahrene Fachkräfte arbeiten mit den Kindern auf freiwilliger Basisund führen sie durch informelles Lernen, Spiele, Singen und Kommunikation in ihrer Muttersprache und in Deutsch an die ukrainische Sprache und Traditionen heran.
+
 ![](img2.jpg)
+
 ![](img3.jpg)

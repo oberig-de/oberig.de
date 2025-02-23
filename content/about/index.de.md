@@ -2,7 +2,6 @@
 title: "Verein «Oberig»"
 description: "Über Verein «Oberig»"
 showDate: false
-showReadingTime: false
 ---
 
 ## ÜBER UNS

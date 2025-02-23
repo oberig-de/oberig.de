@@ -1,10 +1,9 @@
 ---
 title: "KONTAKT"
 description: "Unsere Kontakte"
-showDate: false
-showReadingTime: false
-sharingLinks: false
 robots: noindex, nofollow
+showReadingTime: false
+showZenMode: false
 ---
 
 Natalia Koziar

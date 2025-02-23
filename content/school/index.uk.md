@@ -2,10 +2,6 @@
 title: "СУБОТНЯ ШКОЛА"
 date: '2025-02-20T17:48:10+01:00'
 description: "Суботня школа «Оберіг»"
-showDate: false
-showViews: false
-showLikes: false
-showReadingTime: false
 ---
 
 Наш освітній проєкт працює в тестовому режимі з  січня 2025 року. 

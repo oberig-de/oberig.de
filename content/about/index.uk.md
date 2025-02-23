@@ -2,7 +2,6 @@
 title: "ТОВАРИСТВО «ОБЕРІГ»"
 description: "Про Товариство «Оберіг»"
 showDate: false
-showReadingTime: false
 ---
 ## ПРО НАС  
 

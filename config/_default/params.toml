@@ -53,7 +53,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   layoutBackgroundBlur = false # only used when layout equals background
 
 [article]
-  showDate = true
+  showDate = false
   showViews = false
   showLikes = false
   showDateOnlyInArticle = false
@@ -80,8 +80,8 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showTaxonomies = false
   showAuthorsBadges = false
   showWordCount = false
-  sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
-  showZenMode = false
+  sharingLinks = [ "facebook", "whatsapp", "telegram", "email"]
+  showZenMode = true
 
 [list]
   showHero = false
