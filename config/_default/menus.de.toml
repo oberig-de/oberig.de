@@ -25,5 +25,5 @@ weight = 50
 
 [[footer]]
   name = "IMPRESSUM | DATENSCHUTZ"
-  pageRef = "terms-privacy"
+  pageRef = "privacy"
   weight = 10
