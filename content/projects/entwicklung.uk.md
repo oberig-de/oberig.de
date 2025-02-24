@@ -5,7 +5,6 @@ type: post
 date: 2025-02-23T18:34:26+01:00
 slug: entwicklung
 featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1740411397/featured_vgroht.jpg
-weight: 20
 ---
 
 Ми прагнемо розвивати наш проєкт. Вже зараз є запит на розширення нашої діяльності і збільшується кількість волонтерів, що готові працювати за наступними напрямками:
