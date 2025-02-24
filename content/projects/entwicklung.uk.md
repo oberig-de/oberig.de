@@ -4,6 +4,7 @@ title: РОЗВИТОК
 date: 2025-02-23T18:34:26+01:00
 slug: entwicklung
 featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1740411397/featured_vgroht.jpg
+visibleInCMS: true
 weight: 20
 ---
 
