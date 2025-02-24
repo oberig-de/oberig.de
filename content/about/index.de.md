@@ -1,9 +1,9 @@
 ---
-title: "Verein «Oberig»"
-description: "Über Verein «Oberig»"
+title: Verein «Oberig»
+description: Über Verein «Oberig»
 showDate: false
+featured: https://res.cloudinary.com/dqzyy5upv/image/upload/v1740394166/featured_chagg5.jpg
 ---
-
 ## ÜBER UNS
 
 Im Januar 2025 hat eine Initiativgruppe ukrainischer und deutscher Kulturschaffender den Ukrainisch-Deutschen Kulturverein „Oberig“ gegründet, um kreative Kultur- und Bildungsprojekte auf einer Plattform zusammenzuführen.
@@ -12,7 +12,7 @@ Die Gründung des Vereins war eine logische Fortsetzung und Erweiterung der Akti
 
 > Der Name wurde nicht zufällig gewählt.  Nach einer alten ukrainischen Tradition ist „Oberig“ = ein Amulett etwas, das eine Person beschützt, Glück bringt, ihr hilft, Schwierigkeiten zu vermeiden, sich vor dem Bösen zu schützen, Feinden zu widerstehen und ihre eigene Identität zu bewahren.
 
-![](img1.jpg)
+![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740394167/img1_xyojuo.jpg)
 
 ## AKTUALITÄT DES PROJEKTS
 
@@ -22,7 +22,7 @@ In Hanau leben mehr als 1.400 Ukrainer, in den umliegenden Städten und Dörfern
 
 > Wir bemühen uns, den in Hanau und im MKK lebenden Familien und Kindern mit ukrainischen Wurzeln die Möglichkeit zu geben, nicht nur virtuell, sondern auch live miteinander in Kontakt zu treten und Gleichgesinnte durch gemeinsame Interessen zu vereinen.
 
-![](img2.jpg)
+![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740394167/img2_o94e0m.jpg)
 
 ## RELEVANZ
 
