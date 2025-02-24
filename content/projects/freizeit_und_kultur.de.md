@@ -1,5 +1,6 @@
 ---
 title: FREIZEIT UND KULTUR"
+type: post
 date: 2025-02-23T18:34:26+01:00
 featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1740411842/featured_pv9qqe.jpg
 ---
