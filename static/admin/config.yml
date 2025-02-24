@@ -108,7 +108,7 @@ collections:
       - { label: 'Language', name: 'language', widget: 'select', options: ['uk', 'de'], hint: 'Виберіть мову для цієї сторінки.' }
       - { label: 'Title', name: 'title', widget: 'string', hint: 'Введіть заголовок сторінки.' }
       - { label: 'Slug', name: 'slug', widget: 'string', hint: 'Введіть URL-частину для сторінки. Використовуйте латинські маленькі літери та дефіси між словами.' }
-      - { label: 'Description', name: 'description', widget: 'string', hint: 'Короткий опис вмісту сторінки.' }
+      - { label: 'Description', name: 'description', widget: 'string', required: false, : 'Короткий опис вмісту сторінки.' }
       - { label: 'Featured Image', name: 'featured', widget: 'image', required: false, hint: 'Оберіть зображення, яке буде основним та відображатиметься на початку сторінки.' }
       - { label: 'Publish Date', name: 'publish_date', widget: 'datetime', required: false, hint: 'Виберіть дату публікації сторінки.' }
       - { label: 'Weight', name: 'weight', widget: 'number', hint: 'Визначте вагу елемента для сортування. Чим менше значення, тим вище позиція сторінки. Якщо вагу не задано, сторінки будуть сортуватися за датою.' }
@@ -127,9 +127,9 @@ collections:
       - { label: 'Language', name: 'language', widget: 'select', options: ['uk', 'de'], hint: 'Виберіть мову для цієї сторінки.' }
       - { label: 'Title', name: 'title', widget: 'string', hint: 'Введіть заголовок сторінки.' }
       - { label: 'Slug', name: 'slug', widget: 'string', hint: 'Введіть URL-частину для сторінки. Використовуйте латинські маленькі літери та дефіси між словами.' }
-      - { label: 'Description', name: 'description', widget: 'string', hint: 'Короткий опис вмісту сторінки.' }
+      - { label: 'Description', name: 'description', widget: 'string', required: false, : 'Короткий опис вмісту сторінки.' }
       - { label: 'Featured Image', name: 'featured', widget: 'image', required: false, hint: 'Оберіть зображення, яке буде основним та відображатиметься на початку сторінки.' }
       - { label: 'Publish Date', name: 'publish_date', widget: 'datetime', hint: 'Виберіть дату публікації сторінки.' }
-      - { label: 'Weight', name: 'weight', widget: 'number', hint: 'Визначте вагу елемента для сортування. Чим менше значення, тим вище позиція сторінки. Якщо вагу не задано, сторінки будуть сортуватися за датою.' }
+      - { label: 'Weight', name: 'weight', widget: 'number', required: false, hint: 'Визначте вагу елемента для сортування. Чим менше значення, тим вище позиція сторінки. Якщо вагу не задано, сторінки будуть сортуватися за датою.' }
       - { label: 'Tags', name: 'tags', widget: 'list', hint: 'Додайте теги для кращого пошуку та категоризації.' }
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Напишіть основний текст сторінки у форматі Markdown.' }

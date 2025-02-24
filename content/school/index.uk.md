@@ -1,7 +1,7 @@
 ---
 title: СУБОТНЯ ШКОЛА
 description: Суботня школа «Оберіг»
-featured: https://res.cloudinary.com/dqzyy5upv/image/upload/v1740394486/featured_apkc1d.jpg
+featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1740394486/featured_apkc1d.jpg
 ---
 **Освітній  проєкт  працює в тестовому режимі з  січня  2025 року.**
 

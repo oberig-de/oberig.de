@@ -2,7 +2,7 @@
 title: ТОВАРИСТВО «ОБЕРІГ»
 description: Про Товариство «Оберіг»
 showDate: false
-featured: https://res.cloudinary.com/dqzyy5upv/image/upload/v1740394166/featured_chagg5.jpg
+featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1740394166/featured_chagg5.jpg
 ---
 ## ПРО НАС
 
