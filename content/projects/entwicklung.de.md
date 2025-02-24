@@ -14,7 +14,7 @@ Erlernen der ukrainischen und deutschen Sprache, Kultur, Geschichte, Musik und T
 
 Ein thematisches Sprach- und Sozial- Café für verschiedene Altersgruppen (um Menschen nach Alter, Hobbys und Interessen zusammenzubringen).
 
-![](ihttps://res.cloudinary.com/dqzyy5upv/image/upload/v1740411430/img2_tt0mdx.jpg)
+![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740411430/img2_tt0mdx.jpg)
 
 Anpassung und Integration von Kindern und Erwachsenen in die deutsche Gesellschaft durch deutsch-ukrainischen Kulturaustausch, der Kindern und Erwachsenen neue Entwicklungsmöglichkeiten eröffnet.
 

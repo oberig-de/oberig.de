@@ -12,7 +12,7 @@ featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1740411397/feat
 
 Тематичне  розмовне | соціальне "кафе" для різних вікових груп (об’єднання людей за віком, хоббі, інтересами).
 
-![](ihttps://res.cloudinary.com/dqzyy5upv/image/upload/v1740411430/img2_tt0mdx.jpg)
+![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740411430/img2_tt0mdx.jpg)
 
 Адаптація  та інтеграція  дітей та дорослих  у німецьке  суспільство шляхом німецько-українського культурного обміну, відкриття  нових  шляхів  розвитку  дітей та дорослих.
 
