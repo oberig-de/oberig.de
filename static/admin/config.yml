@@ -2,6 +2,12 @@ backend:
   name: git-gateway
   branch: main
 
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: dqzyy5upv
+    api_key: 963455817932761
+
 media_folder: static/img
 public_folder: /img
 
