@@ -1,6 +1,7 @@
 backend:
-  name: git-gateway
-  branch: main
+  # name: git-gateway
+  # branch: main
+  name: test-repo
 
 media_library:
   name: cloudinary
@@ -12,145 +13,124 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: 'pages_de'
-    label: 'Pages (German)'
-    files:
-      - name: 'home_de'
-        label: 'Home (DE)'
-        file: 'content/_index.de.md'
-        fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
-          - { label: 'Language', name: 'language', widget: 'hidden', default: 'de' }
-      
-      - name: 'about_de'
-        label: 'About (DE)'
-        file: 'content/about/index.de.md'
-        fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Featured Image', name: 'featured', widget: 'image', required: false }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
-          - { label: 'Language', name: 'language', widget: 'hidden', default: 'de' }
-
-      - name: 'contacts_de'
-        label: 'Contacts (DE)'
-        file: 'content/contacts/index.de.md'
-        fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
-          - { label: 'Language', name: 'language', widget: 'hidden', default: 'de' }
-
-      - name: 'school_de'
-        label: 'School (DE)'
-        file: 'content/school/index.de.md'
-        fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
-          - { label: 'Language', name: 'language', widget: 'hidden', default: 'de' }
 
   - name: 'pages_uk'
-    label: 'Pages (Ukrainian)'
+    label: 'Сторінки (українська)'
     files:
+
       - name: 'home_uk'
-        label: 'Home (UK)'
+        label: 'ГОЛОВНА УКРАЇНСЬКА'
         file: 'content/_index.uk.md'
         fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
-          - { label: 'Language', name: 'language', widget: 'hidden', default: 'uk' }
-      
-      - name: 'about_uk'
-        label: 'About (UK)'
-        file: 'content/about/index.uk.md'
-        fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Featured Image', name: 'featured', widget: 'image', required: false }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - { label: 'Title', name: 'title', widget: 'string', hint: 'Введіть заголовок сторінки.' }
+          - { label: 'Description', name: 'description', widget: 'string', hint: 'Короткий опис вмісту сторінки, який буде показаний у результатах пошуку, наприклад, в Google.' }
+          - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Напишіть основний текст сторінки у форматі Markdown.' }
           - { label: 'Language', name: 'language', widget: 'hidden', default: 'uk' }
 
-      - name: 'contacts_uk'
-        label: 'Contacts (UK)'
-        file: 'content/contacts/index.uk.md'
+      - name: 'about_uk'
+        label: 'ТОВАРИСТВО «ОБЕРІГ»'
+        file: 'content/about/index.uk.md'
         fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - { label: 'Title', name: 'title', widget: 'string', hint: 'Введіть заголовок сторінки.' }
+          - { label: 'Description', name: 'description', widget: 'string', hint: 'Короткий опис вмісту сторінки.' }
+          - { label: 'Featured Image', name: 'featured', widget: 'image', required: false, hint: 'Оберіть зображення, яке буде основним та відображатиметься на початку сторінки.' }
+          - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Напишіть основний текст сторінки у форматі Markdown.' }
           - { label: 'Language', name: 'language', widget: 'hidden', default: 'uk' }
 
       - name: 'school_uk'
-        label: 'School (UK)'
+        label: 'СУБОТНЯ ШКОЛА'
         file: 'content/school/index.uk.md'
         fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - { label: 'Title', name: 'title', widget: 'string', hint: 'Введіть заголовок сторінки.' }
+          - { label: 'Description', name: 'description', widget: 'string', hint: 'Короткий опис вмісту сторінки.' }
+          - { label: 'Featured Image', name: 'featured', widget: 'image', required: false, hint: 'Оберіть зображення, яке буде основним та відображатиметься на початку сторінки.' }
+          - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Напишіть основний текст сторінки у форматі Markdown.' }
           - { label: 'Language', name: 'language', widget: 'hidden', default: 'uk' }
 
-  - name: 'news'
-    label: 'News'
-    folder: 'content/news'
+      - name: 'contacts_uk'
+        label: 'Контакти'
+        file: 'content/contacts/index.uk.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string', hint: 'Введіть заголовок сторінки.' }
+          - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Напишіть основний текст сторінки у форматі Markdown.' }
+          - { label: 'Language', name: 'language', widget: 'hidden', default: 'uk' }
+
+
+  - name: 'pages_de'
+    label: 'Сторінки (німецька)'
+    files:
+
+      - name: 'home_de'
+        label: 'ГОЛОВНА НІМЕЦЬКА'
+        file: 'content/_index.de.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string', hint: 'Введіть заголовок сторінки.' }
+          - { label: 'Description', name: 'description', widget: 'string', hint: 'Короткий опис вмісту сторінки, який буде показаний у результатах пошуку, наприклад, в Google.' }
+          - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Напишіть основний текст сторінки у форматі Markdown.' }
+          - { label: 'Language', name: 'language', widget: 'hidden', default: 'de' }
+
+      - name: 'about_de'
+        label: 'VEREIN «OBERIG»'
+        file: 'content/about/index.de.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string', hint: 'Введіть заголовок сторінки.' }
+          - { label: 'Description', name: 'description', widget: 'string', hint: 'Короткий опис вмісту сторінки.' }
+          - { label: 'Featured Image', name: 'featured', widget: 'image', required: false, hint: 'Оберіть зображення, яке буде основним та відображатиметься на початку сторінки.' }
+          - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Напишіть основний текст сторінки у форматі Markdown.' }
+          - { label: 'Language', name: 'language', widget: 'hidden', default: 'de' }
+
+      - name: 'school_de'
+        label: 'SAMSTAGSSCHULE'
+        file: 'content/school/index.de.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string', hint: 'Введіть заголовок сторінки.' }
+          - { label: 'Description', name: 'description', widget: 'string', hint: 'Короткий опис вмісту сторінки.' }
+          - { label: 'Featured Image', name: 'featured', widget: 'image', required: false, hint: 'Оберіть зображення, яке буде основним та відображатиметься на початку сторінки.' }
+          - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Напишіть основний текст сторінки у форматі Markdown.' }
+          - { label: 'Language', name: 'language', widget: 'hidden', default: 'de' }
+
+      - name: 'contacts_de'
+        label: 'Kontakt'
+        file: 'content/contacts/index.de.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string', hint: 'Введіть заголовок сторінки.' }
+          - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Напишіть основний текст сторінки у форматі Markdown.' }
+          - { label: 'Language', name: 'language', widget: 'hidden', default: 'de' }
+
+
+  - name: 'projects'
+    label: 'Проєкти (укр./нім.)'
+    folder: 'content/projects'
     create: true
-    nested:
-      depth: 2
-      summary: '{{title}}'
     filter:
       field: 'type'
       value: 'post'
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Featured Image', name: 'featured', widget: 'image', required: false }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: 'Language', name: 'language', widget: 'select', options: ['de', 'uk'] }
-      - { label: 'Type', name: 'type', widget: 'hidden', default: 'post' }
-      - { label: 'Draft', name: 'draft', widget: 'boolean', default: false }
+      - { label: 'Language', name: 'language', widget: 'select', options: ['uk', 'de'], hint: 'Виберіть мову для цієї сторінки.' }
+      - { label: 'Title', name: 'title', widget: 'string', hint: 'Введіть заголовок сторінки.' }
+      - { label: 'Slug', name: 'slug', widget: 'string', hint: 'Введіть URL-частину для сторінки. Використовуйте латинські маленькі літери та дефіси між словами.' }
+      - { label: 'Description', name: 'description', widget: 'string', hint: 'Короткий опис вмісту сторінки.' }
+      - { label: 'Featured Image', name: 'featured', widget: 'image', required: false, hint: 'Оберіть зображення, яке буде основним та відображатиметься на початку сторінки.' }
+      - { label: 'Publish Date', name: 'publish_date', widget: 'datetime', required: false, hint: 'Виберіть дату публікації сторінки.' }
+      - { label: 'Weight', name: 'weight', widget: 'number', hint: 'Визначте вагу елемента для сортування. Чим менше значення, тим вище позиція сторінки. Якщо вагу не задано, сторінки будуть сортуватися за датою.' }
+      - { label: 'Tags', name: 'tags', widget: 'list', hint: 'Додайте теги для кращого пошуку та категоризації.' }
+      - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Напишіть основний текст сторінки у форматі Markdown.' }
 
-  - name: 'projects'
-    label: 'Projects'
-    folder: 'content/projects'
+
+  - name: 'news'
+    label: 'Новини (укр./нім.)'
+    folder: 'content/news'
     create: true
-    nested:
-      depth: 2
-      summary: '{{title}}'
+    filter:
+      field: 'type'
+      value: 'post'
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Featured Image', name: 'featured', widget: 'image', required: false }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: 'Language', name: 'language', widget: 'select', options: ['de', 'uk'] }
-      - { label: 'Draft', name: 'draft', widget: 'boolean', default: false }
-
-  - name: 'section_indices_de'
-    label: 'Section Pages (German)'
-    files:
-      - name: 'news_index_de'
-        label: 'News Overview (DE)'
-        file: 'content/news/_index.de.md'
-        fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
-          - { label: 'Language', name: 'language', widget: 'hidden', default: 'de' }
-      
-      - name: 'projects_index_de'
-        label: 'Projects Overview (DE)'
-        file: 'content/projects/_index.de.md'
-        fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
-          - { label: 'Language', name: 'language', widget: 'hidden', default: 'de' }
-
-  - name: 'section_indices_uk'
-    label: 'Section Pages (Ukrainian)'
-    files:
-      - name: 'news_index_uk'
-        label: 'News Overview (UK)'
-        file: 'content/news/_index.uk.md'
-        fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
-          - { label: 'Language', name: 'language', widget: 'hidden', default: 'uk' }
-      
-      - name: 'projects_index_uk'
-        label: 'Projects Overview (UK)'
-        file: 'content/projects/_index.uk.md'
-        fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
-          - { label: 'Language', name: 'language', widget: 'hidden', default: 'uk' }
+      - { label: 'Language', name: 'language', widget: 'select', options: ['uk', 'de'], hint: 'Виберіть мову для цієї сторінки.' }
+      - { label: 'Title', name: 'title', widget: 'string', hint: 'Введіть заголовок сторінки.' }
+      - { label: 'Slug', name: 'slug', widget: 'string', hint: 'Введіть URL-частину для сторінки. Використовуйте латинські маленькі літери та дефіси між словами.' }
+      - { label: 'Description', name: 'description', widget: 'string', hint: 'Короткий опис вмісту сторінки.' }
+      - { label: 'Featured Image', name: 'featured', widget: 'image', required: false, hint: 'Оберіть зображення, яке буде основним та відображатиметься на початку сторінки.' }
+      - { label: 'Publish Date', name: 'publish_date', widget: 'datetime', hint: 'Виберіть дату публікації сторінки.' }
+      - { label: 'Weight', name: 'weight', widget: 'number', hint: 'Визначте вагу елемента для сортування. Чим менше значення, тим вище позиція сторінки. Якщо вагу не задано, сторінки будуть сортуватися за датою.' }
+      - { label: 'Tags', name: 'tags', widget: 'list', hint: 'Додайте теги для кращого пошуку та категоризації.' }
+      - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Напишіть основний текст сторінки у форматі Markdown.' }
