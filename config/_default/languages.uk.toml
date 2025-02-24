@@ -17,12 +17,12 @@ weight = 1
 [params.author]
   name = "ОБЕРІГ"
   email = "kontakt@oberig.de"
-  image = "/img/avatar_mono.png"
+  image = "/img/avatar.jpg"
   # imageQuality = 96
   headline = "КУЛЬТУРНО-ОСВІТНІЙ ПРОЄКТ"
   # bio = "A little bit about you"
   links = [
-    # { email = "mailto:hello@kontakt@oberig.de" },
+    # { email = "mailto:kontakt@oberig.de" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },

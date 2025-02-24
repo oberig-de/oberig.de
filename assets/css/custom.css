@@ -37,17 +37,3 @@ html[lang="de"] .article .font-bold {
 nav.flex.space-x-3 a {
     display: none;
 }
-
-/* Set the homepage cards' background color to white */
-.min-h-full {
-    background-color: #ffffff !important;
-}
-
-/* Remove background lightning effect on the background image */
-.bg-gradient-to-t {
-    display: none !important;
-}
-
-#appearance-switcher {
-    display: none !important;
-}
