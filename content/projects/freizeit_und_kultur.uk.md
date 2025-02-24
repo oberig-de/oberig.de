@@ -1,10 +1,10 @@
 ---
 language: uk
 title: ДОСУГ ТА КУЛЬТУРА
-type: post
 date: 2025-02-23T18:34:26+01:00
 slug: freizeit_und_kultur
 featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1740411842/featured_pv9qqe.jpg
+weight: 10
 ---
 
 Ми прагнемо відкрити Німеччину для українців, а українську культуру для Німеччини. Зокрема – великий потенціал вбачаємо в багатій історичній та культурній спадщині землі Гессен.
