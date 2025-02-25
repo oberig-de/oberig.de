@@ -1,10 +1,16 @@
-{{ $recentArticles := 6 }} 
+{{ $recentArticles := 3 }} 
 {{ partial "partials/home/background.html" . }}
 
 <div style="margin-bottom: 30px;"></div>
 
-{{ partial "recent-articles-custom.html" (dict "context" . "folder" "projects" "title" "ПРОЄКТИ" "recentArticles" $recentArticles) }}
+{{ $language := .Site.Language.Lang }}
 
-<div style="margin-bottom: 30px;"></div>
-
-{{ partial "recent-articles-custom.html" (dict "context" . "folder" "news" "title" "НОВИНИ" "recentArticles" $recentArticles) }}
+{{ if eq $language "de" }}
+  {{ partial "recent-articles-custom.html" (dict "context" . "folder" "projects" "title" "PROJEKTE" "recentArticles" $recentArticles) }}
+  <div style="margin-bottom: 30px;"></div>
+  {{ partial "recent-articles-custom.html" (dict "context" . "folder" "news" "title" "NACHRICHTEN" "recentArticles" $recentArticles) }}
+{{ else if eq $language "uk" }}
+  {{ partial "recent-articles-custom.html" (dict "context" . "folder" "projects" "title" "ПРОЄКТИ" "recentArticles" $recentArticles) }}
+  <div style="margin-bottom: 30px;"></div>
+  {{ partial "recent-articles-custom.html" (dict "context" . "folder" "news" "title" "НОВИНИ" "recentArticles" $recentArticles) }}
+{{ end }}
