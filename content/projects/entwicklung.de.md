@@ -2,7 +2,7 @@
 language: de
 slug: entwicklung
 title: ENTWICKLUNG
-weight: 10
+weight: 1
 featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1740411397/featured_vgroht.jpg
 visibleInCMS: true
 ---
