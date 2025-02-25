@@ -1,10 +1,11 @@
-﻿---
+---
 language: uk
-title: РОЗВИТОК
+draft: false
 slug: entwicklung
+title: РОЗВИТОК
+weight: 10
 featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1740411397/featured_vgroht.jpg
 visibleInCMS: true
-weight: 20
 ---
 
 Ми прагнемо розвивати наш проєкт. Вже зараз є запит на розширення нашої діяльності і збільшується кількість волонтерів, що готові працювати за наступними напрямками:

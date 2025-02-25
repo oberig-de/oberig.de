@@ -1,10 +1,10 @@
 ---
 language: de
+slug: freizeit-und-kultur
 title: FREIZEIT UND KULTUR
-slug: freizeit_und_kultur
+weight: 20
 featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1740411842/featured_pv9qqe.jpg
 visibleInCMS: true
-weight: 10
 ---
 
 Wir wollen Deutschland für die Ukrainer und die ukrainische Kultur für Deutschland öffnen. Vor allem im reichen historischen und kulturellen Erbe Hessens sehen wir ein großes Potenzial.

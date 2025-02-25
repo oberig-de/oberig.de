@@ -91,6 +91,12 @@ collections:
         required: false
         i18n: true
         hint: 'Короткий опис вмісту сторінки.'
+      - label: Weight
+        name: weight
+        widget: number
+        i18n: duplicate
+        required: false
+        hint: 'Визначте вагу елемента для сортування. Чим менше значення, тим вище позиція сторінки. Якщо вагу не задано, сторінки будуть сортуватися за датою.'
       - label: Featured Image
         name: featureimage
         widget: image

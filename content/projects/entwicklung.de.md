@@ -1,10 +1,10 @@
-﻿---
+---
 language: de
-title: ENTWICKLUNG
 slug: entwicklung
+title: ENTWICKLUNG
+weight: 10
 featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1740411397/featured_vgroht.jpg
 visibleInCMS: true
-weight: 20
 ---
 
 Wir sind bestrebt, unser Projekt auszubauen.
