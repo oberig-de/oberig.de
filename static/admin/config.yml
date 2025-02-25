@@ -1,4 +1,4 @@
-# local_backend: true
+local_backend: false
 
 backend:
   name: git-gateway
@@ -27,6 +27,14 @@ i18n:
   default_locale: uk
 
 collections:
+  - name: 'home'
+    label: 'Головна'
+    folder: 'content/about'
+    i18n: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string', i18n: true }
+      - { label: 'Description', name: 'description', widget: 'string', i18n: true }
+
   - name: 'about'
     label: 'Про нас'
     folder: 'content/about'
