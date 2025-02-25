@@ -4,10 +4,9 @@ slug: kreativ-club-hanau
 title: KREATIV CLUB HANAU
 description: Разом зі спілкою ART 13 – Werkstatt für Kunst e.V. діє проєкт
   «Креатив Клуб Ханау»
-weight: 0
+weight: 1
 featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1740483968/IMG_0642_ga4rmk.jpg
 visibleInCMS: true
-publish_date: 2025-02-25T13:21:00.000Z
 ---
 ## МИСТЕЦТВО В ОСВІТІ
 

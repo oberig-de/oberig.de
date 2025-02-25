@@ -1,9 +1,8 @@
 ---
-language: uk
 draft: false
 slug: freizeit-und-kultur
 title: ДОСУГ ТА КУЛЬТУРА
-weight: 2
+weight: 3
 featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1740411842/featured_pv9qqe.jpg
 visibleInCMS: true
 ---

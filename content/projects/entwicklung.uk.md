@@ -1,9 +1,8 @@
 ---
-language: uk
 draft: false
 slug: entwicklung
 title: РОЗВИТОК
-weight: 1
+weight: 2
 featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1740411397/featured_vgroht.jpg
 visibleInCMS: true
 ---

@@ -17,7 +17,7 @@ weight = 2
 [params.author]
   name = "OBERIG"
   email = "kontakt@oberig.de"
-  image = "/img/avatar.jpg"
+  image = "/img/avatar.png"
 #   imageQuality = 96
   headline = "KULTURELLES BILDUNGSPROJEKT"
 #   bio = "A little bit about you"
