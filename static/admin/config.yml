@@ -32,8 +32,9 @@ collections:
     folder: 'content/about'
     i18n: true
     fields:
-      - { label: 'Title', name: 'title', widget: 'string', i18n: true }
-      - { label: 'Description', name: 'description', widget: 'string', i18n: true }
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string', i18n: true, hint: 'Заголовок головної сторінки. Використовується в результатах пошуку Google.' }
+      - { label: 'Description', name: 'description', widget: 'string', i18n: true, hint: 'Короткий опис для головної сторінки. Відображається у результатах пошуку Google.' }
 
   - name: 'about'
     label: 'Про нас'
@@ -102,12 +103,6 @@ collections:
         i18n: duplicate
         required: false
         hint: 'Виберіть дату публікації сторінки.'
-      - label: Weight
-        name: weight
-        widget: number
-        i18n: duplicate
-        required: false
-        hint: 'Визначте вагу елемента для сортування. Чим менше значення, тим вище позиція сторінки. Якщо вагу не задано, сторінки будуть сортуватися за датою.'
       - label: Body
         name: body
         widget: markdown
@@ -161,12 +156,6 @@ collections:
         widget: datetime
         i18n: duplicate
         hint: "Виберіть дату публікації сторінки."
-      - label: Weight
-        name: weight
-        widget: number
-        required: false
-        i18n: duplicate
-        hint: "Визначте вагу елемента для сортування. Чим менше значення, тим вище позиція сторінки. Якщо вагу не задано, сторінки будуть сортуватися за датою."
       - label: Body
         name: body
         widget: markdown
