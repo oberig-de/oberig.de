@@ -6,7 +6,6 @@ weight: 20
 featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1740411842/featured_pv9qqe.jpg
 visibleInCMS: true
 ---
-
 Wir wollen Deutschland für die Ukrainer und die ukrainische Kultur für Deutschland öffnen. Vor allem im reichen historischen und kulturellen Erbe Hessens sehen wir ein großes Potenzial.
 
 ![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740411843/img1_zygdhe.jpg)
@@ -21,13 +20,13 @@ Wir sind an einer kontinuierlichen Zusammenarbeit mit städtischen Museen intere
 
 Veranstaltung von thematischen Feiertagen, Tagen der nationalen Küche (Kochkurse, Leckereien, Picknicks im Freien, Geburtstage und Kinderfeste usw.)
 
-![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740411843/img2_a3b388.jpg) 
+![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740411845/img3_ngjbto.jpg)
 
 Zur Umsetzung unseres Programms planen wir die Zusammenarbeit mit Kultureinrichtungen und Migrantenunterstützungszentren in Hessen.
 
 ![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740411846/img4_arpeix.jpg)
 
-![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740411850/img5_gckrfl.jpg) 
+![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740411850/img5_gckrfl.jpg)
 
 ![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740411851/img6_jp3jkt.jpg)
 
