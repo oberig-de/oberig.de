@@ -10,7 +10,10 @@ Im Januar 2025 hat eine Initiativgruppe ukrainischer und deutscher Kulturschaffe
 
 Die Gründung des Vereins war eine logische Fortsetzung und Erweiterung der Aktivitäten des Kreativ Clubs Hanau, der seit 2022 ukrainische Kinder durch Kreativität zusammenbringt.
 
-> Der Name wurde nicht zufällig gewählt.  Nach einer alten ukrainischen Tradition ist „Oberig“ = ein Amulett etwas, das eine Person beschützt, Glück bringt, ihr hilft, Schwierigkeiten zu vermeiden, sich vor dem Bösen zu schützen, Feinden zu widerstehen und ihre eigene Identität zu bewahren.
+> Der Name wurde nicht zufällig gewählt.  Nach einer alten ukrainischen Tradition ist „Oberig“ = ein Amulett etwas, das eine Person beschützt, Glück bringt, ihr hilft, Schwierigkeiten zu vermeiden, sich vor dem Bösen zu schützen, Feinden zu widerstehen und ihre eigene Identität zu bewahren. 
+>
+>
+> Der ukrainische Blumenkranz ist ein wichtiges kulturelles Symbol mit einer tiefen Bedeutung, eine symbolische Brücke zwischen der Vergangenheit und der Gegenwart, die den Geist unseres Volkes und seinen Glauben erhalt.
 
 ![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740394167/img1_xyojuo.jpg)
 
