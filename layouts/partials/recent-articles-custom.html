@@ -1,0 +1,17 @@
+{{ $folder := .folder }}
+{{ $recentArticles := .recentArticles }}
+{{ $context := .context }}
+{{ $title := .title }}
+
+<article class="w-full">
+  <header class="relative px-4 py-2 mb-3">
+    <h1 class="text-2xl font-medium text-left font-serif">{{ $title }}</h1>
+  </header>
+</article>
+
+<section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+  {{ $filteredPages := where $context.Site.RegularPages "Section" $folder }}
+  {{ range first $recentArticles $filteredPages }}
+    {{ partial "article-link/card.html" . }}
+  {{ end }}
+</section>

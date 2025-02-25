@@ -1,0 +1,10 @@
+{{ $recentArticles := 6 }} 
+{{ partial "partials/home/background.html" . }}
+
+<div style="margin-bottom: 30px;"></div>
+
+{{ partial "recent-articles-custom.html" (dict "context" . "folder" "projects" "title" "ПРОЄКТИ" "recentArticles" $recentArticles) }}
+
+<div style="margin-bottom: 30px;"></div>
+
+{{ partial "recent-articles-custom.html" (dict "context" . "folder" "news" "title" "НОВИНИ" "recentArticles" $recentArticles) }}
