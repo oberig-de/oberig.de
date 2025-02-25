@@ -4,6 +4,7 @@ showDate: false
 showReadingTime: false
 sharingLinks: false
 robots: noindex, nofollow
+showHero: false
 ---
 
 Hinweise zur Datenverarbeitung
