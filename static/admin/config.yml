@@ -96,7 +96,7 @@ collections:
         widget: number
         i18n: duplicate
         required: false
-        hint: 'Визначте вагу елемента для сортування. Чим менше значення, тим вище позиція сторінки. Якщо вагу не задано, сторінки будуть сортуватися за датою.'
+        hint: 'Визначте вагу елемента для сортування. Чим менше значення, тим вище позиція сторінки.'
       - label: Featured Image
         name: featureimage
         widget: image
