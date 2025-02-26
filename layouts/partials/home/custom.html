@@ -1,16 +1,54 @@
 {{ $recentArticles := 3 }} 
 {{ partial "partials/home/background.html" . }}
-
 <div style="margin-bottom: 30px;"></div>
 
 {{ $language := .Site.Language.Lang }}
 
 {{ if eq $language "de" }}
+  {{ $projectsLink := "/projects" }}
+  {{ $newsLink := "/news" }}
+  
   {{ partial "recent-articles-custom.html" (dict "context" . "folder" "projects" "title" "PROJEKTE" "recentArticles" $recentArticles) }}
+  <div class="mt-10 flex justify-center">
+    <a href="{{ $projectsLink }}">
+      <button class="bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-500 hover:border-transparent rounded">
+        Mehr anzeigen
+      </button>
+    </a>
+  </div>
+  
   <div style="margin-bottom: 30px;"></div>
+  
   {{ partial "recent-articles-custom.html" (dict "context" . "folder" "news" "title" "NACHRICHTEN" "recentArticles" $recentArticles) }}
+  <div class="mt-10 flex justify-center">
+    <a href="{{ $newsLink }}">
+      <button class="bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-500 hover:border-transparent rounded">
+        Mehr anzeigen
+      </button>
+    </a>
+  </div>
+
 {{ else if eq $language "uk" }}
+  {{ $projectsLink := "/projects" }}
+  {{ $newsLink := "/news" }}
+  
   {{ partial "recent-articles-custom.html" (dict "context" . "folder" "projects" "title" "ПРОЄКТИ" "recentArticles" $recentArticles) }}
+  <div class="mt-10 flex justify-center">
+    <a href="{{ $projectsLink }}">
+      <button class="bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-500 hover:border-transparent rounded">
+        Показати більше
+      </button>
+    </a>
+  </div>
+  
   <div style="margin-bottom: 30px;"></div>
+  
   {{ partial "recent-articles-custom.html" (dict "context" . "folder" "news" "title" "НОВИНИ" "recentArticles" $recentArticles) }}
+  <div class="mt-10 flex justify-center">
+    <a href="{{ $newsLink }}">
+      <button class="bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-500 hover:border-transparent rounded">
+        Показати більше
+      </button>
+    </a>
+  </div>
 {{ end }}
