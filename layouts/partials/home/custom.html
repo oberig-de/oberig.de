@@ -1,53 +1,36 @@
-{{ $recentArticles := 3 }} 
+{{ $recentArticles := default 3 .Site.Params.homepage.showRecentItems }}
 {{ partial "partials/home/background.html" . }}
 <div style="margin-bottom: 30px;"></div>
 
 {{ $language := .Site.Language.Lang }}
+{{ $projectsSection := dict 
+  "de" (dict "title" "PROJEKTE" "button" "Mehr anzeigen" "link" "/de/projects")  
+  "uk" (dict "title" "ПРОЄКТИ" "button" "Показати більше" "link" "/projects")
+}}
+{{ $newsSection := dict 
+  "de" (dict "title" "NACHRICHTEN" "button" "Mehr anzeigen" "link" "/de/news")  
+  "uk" (dict "title" "НОВИНИ" "button" "Показати більше" "link" "/news")
+}}
 
-{{ if eq $language "de" }}
-  {{ $projectsLink := "/projects" }}
-  {{ $newsLink := "/news" }}
-  
-  {{ partial "recent-articles-custom.html" (dict "context" . "folder" "projects" "title" "PROJEKTE" "recentArticles" $recentArticles) }}
+{{ with index $projectsSection $language }}
+  {{ partial "recent-articles-custom.html" (dict "context" $ "folder" "projects" "title" .title "recentArticles" $recentArticles) }}
   <div class="mt-10 flex justify-center">
-    <a href="{{ $projectsLink }}">
+    <a href="{{ .link }}">
       <button class="bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-500 hover:border-transparent rounded">
-        Mehr anzeigen
+        {{ .button }}
       </button>
     </a>
   </div>
-  
-  <div style="margin-bottom: 30px;"></div>
-  
-  {{ partial "recent-articles-custom.html" (dict "context" . "folder" "news" "title" "NACHRICHTEN" "recentArticles" $recentArticles) }}
-  <div class="mt-10 flex justify-center">
-    <a href="{{ $newsLink }}">
-      <button class="bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-500 hover:border-transparent rounded">
-        Mehr anzeigen
-      </button>
-    </a>
-  </div>
+{{ end }}
 
-{{ else if eq $language "uk" }}
-  {{ $projectsLink := "/projects" }}
-  {{ $newsLink := "/news" }}
-  
-  {{ partial "recent-articles-custom.html" (dict "context" . "folder" "projects" "title" "ПРОЄКТИ" "recentArticles" $recentArticles) }}
+<div style="margin-bottom: 30px;"></div>
+
+{{ with index $newsSection $language }}
+  {{ partial "recent-articles-custom.html" (dict "context" $ "folder" "news" "title" .title "recentArticles" $recentArticles) }}
   <div class="mt-10 flex justify-center">
-    <a href="{{ $projectsLink }}">
+    <a href="{{ .link }}">
       <button class="bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-500 hover:border-transparent rounded">
-        Показати більше
-      </button>
-    </a>
-  </div>
-  
-  <div style="margin-bottom: 30px;"></div>
-  
-  {{ partial "recent-articles-custom.html" (dict "context" . "folder" "news" "title" "НОВИНИ" "recentArticles" $recentArticles) }}
-  <div class="mt-10 flex justify-center">
-    <a href="{{ $newsLink }}">
-      <button class="bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-500 hover:border-transparent rounded">
-        Показати більше
+        {{ .button }}
       </button>
     </a>
   </div>
