@@ -1,5 +1,5 @@
 ---
-title: Verein «Oberig»
+title: VEREIN «OBERIG»
 description: Über Verein «Oberig»
 showDate: false
 featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1740394166/featured_chagg5.jpg

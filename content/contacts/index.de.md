@@ -1,5 +1,5 @@
 ---
-title: KONTAKT
+title: Kontakt
 description: Unsere Kontakte
 robots: noindex, nofollow
 showReadingTime: false

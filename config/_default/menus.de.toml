@@ -1,27 +1,27 @@
 [[main]]
-name = "VEREIN «OBERIG»"
-pageRef = "about"
-weight = 10
+  name = "VEREIN «OBERIG»"
+  pageRef = "about"
+  weight = 10
 
 [[main]]
-name = "SAMSTAGSSCHULE"
-pageRef = "school"
-weight = 20
+  name = "SAMSTAGSSCHULE"
+  pageRef = "school"
+  weight = 20
 
 [[main]]
-name = "PROJEKTE"
-pageRef = "projects"
-weight = 30
+  name = "PROJEKTE"
+  pageRef = "projects"
+  weight = 30
 
 [[main]]
-name = "NACHRICHTEN"
-pageRef = "news"
-weight = 40
+  name = "NACHRICHTEN"
+  pageRef = "news"
+  weight = 40
 
 [[main]]
-name = "Kontakt"
-pageRef = "contacts"
-weight = 50
+  name = "Kontakt"
+  pageRef = "contacts"
+  weight = 50
 
 [[footer]]
   name = "IMPRESSUM | DATENSCHUTZ"
