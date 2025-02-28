@@ -56,12 +56,15 @@ Um den langfristigen Erfolg unseres Bildungsprojekts sicherzustellen, suchen wir
 Wir benötigen einen voll ausgestatteten, möblierten Unterrichtsraum für regelmäßige Schulungen von Gruppen ab 10 Personen. Idealerweise sollten die Räumlichkeiten mindestens fünf separate Unterrichtsräume umfassen und samstags von 10:00 bis 16:00 Uhr verfügbar sein.
 
 **Finanzielle Unterstützung**
+
 Wir suchen Sponsoren, um die Mietkosten der Unterrichtsräume, den Erwerb von Lehrmaterialien, Lehrbüchern sowie Büroausstattung zu finanzieren.
 
 **Partnerschaften**
+
 Wir richten uns an Organisationen, Stiftungen und engagierte Einzelpersonen, die Interesse daran haben, unser Projekt als Partner zu unterstützen. Ihre Unterstützung kann auf verschiedene Weise erfolgen – sei es durch finanzielle Mittel, technologische Hilfe, Bereitstellung von Ressourcen oder Expertise.
 
 **Verschiedene Formen der Unterstützung**
+
 Wir sind dankbar für jede Form der Mithilfe, sei es durch Informationen, finanzielle Zuwendungen, technische Unterstützung, Werbung oder durch wertvolle Empfehlungen und Ratschläge.
 
 Gemeinsam können wir eine nachhaltige Plattform schaffen, die Bildung und Integration fördert und einen positiven Beitrag zur Gemeinschaft leistet.
