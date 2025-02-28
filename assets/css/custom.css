@@ -22,9 +22,7 @@ html[lang="uk"] .article .font-bold {
     font-family: 'KyivRegion', sans-serif;
 }
 
-html[lang="de"] .main-menu,
-html[lang="de"] h1,
-html[lang="de"] h2.mt-0.mb-0.text-xl.text-neutral-800.dark\:text-neutral-300 {
+html[lang="de"] .main-menu {
     font-family: 'KyivRegion', sans-serif;
 }
 
