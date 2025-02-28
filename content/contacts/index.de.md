@@ -6,5 +6,9 @@ showReadingTime: false
 showZenMode: false
 showHero: false
 ---
++4917622593651
 
-Natalia Koziar
++380509425112 
+
+E-Mail: kontakt@oberig.de
+
