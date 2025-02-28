@@ -18,15 +18,13 @@ Kreativclubs Hanau dar, der seit 2022 ukrainische Kinder durch kreative Projekte
 >
 > Der ukrainische Blumenkranz (Vinok) ist ein kraftvolles Symbol, das Vergangenheit und Gegenwart verbindet. Er bewahrt den Geist unseres Volkes und seinen tiefen Glauben.
 
-![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740394167/img1_xyojuo.jpg)
+![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740741931/1_%D0%BF%D0%BE%D1%81%D1%82_11_page-0001_pxwzco.jpg)
 
 ## ZIELE DES PROJEKTES
 
-1. Integration und Anpassung ukrainischer Kinder in die deutsche Gesellschaft durch einen deutsch-ukrainischen Kulturaustausch.
-
-2. Förderung der ukrainischen Sprache, Kultur, Geschichte und Musik durch interaktiven Unterricht, Spiele und Kommunikation.
-
-3. Psychologische Unterstützung und Stressbewältigung, insbesondere für Kinder mit Fluchterfahrungen.
+* Integration und Anpassung ukrainischer Kinder in die deutsche Gesellschaft durch einen deutsch-ukrainischen Kulturaustausch.
+* Förderung der ukrainischen Sprache, Kultur, Geschichte und Musik durch interaktiven Unterricht, Spiele und Kommunikation.
+* Psychologische Unterstützung und Stressbewältigung, insbesondere für Kinder mit Fluchterfahrungen.
 
 In Hanau und dem Main-Kinzig-Kreis leben über 2.400 Ukrainer, größtenteils Mütter
 mit Kindern, die vor dem Krieg fliehen mussten.

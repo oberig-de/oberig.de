@@ -15,7 +15,8 @@ featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1740394166/feat
 >
 > Український віночок —  важливий культурний символ із глибоким сенсом, символічний місток між минулим і сучасністю, що зберігає дух нашого народу і його вірування.
 
-![ ](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740394167/img1_xyojuo.jpg)
+![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740741931/1_%D0%BF%D0%BE%D1%81%D1%82_11_page-0001_pxwzco.jpg)
+
 
 ## ДЛЯ ЧОГО
 
@@ -57,3 +58,5 @@ featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1740394166/feat
 ![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740740679/IMG_0643_ubkzpx.jpg)
 
 ![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740740787/5_rn3gz2.jpg)
+
+![]()
