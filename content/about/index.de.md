@@ -41,10 +41,14 @@ Das Land Hessen hat Ukrainisch als zweite Fremdsprache für den Schulunterricht 
 
 ## PARTNERS
 
-Von Herzen: Vielen Dank für Ihre Hilfe, Ihr Vertrauen und Ihre Solidarität!
-
 Wir möchten uns herzlich bei den initiatorinen Liliana Herzig und Lia Lemberg von Art 13 e.V. bedanken. Danke auch an allen Sponsoren, Unterstützern und ehrenamtlichen Helfern, die zur Verwirklichung dieses Projekts beitragen.
 
 Ihr Engagement, Ihre Großzügigkeit und Ihre Zeit ermöglichen es uns, Kindern eine wertvolle Lern- und Entwicklungsplattform zu bieten, in der sie ihre kulturelle Identität bewahren und gleichzeitig neue Chancen in ihrer neuen Heimat erhalten.
 
 Dank Ihrer Unterstützung wächst „Oberig“ stetig und bietet immer mehr Kindern und Familien die Möglichkeit, gemeinsam zu lernen, sich auszutauschen und sich in der deutschen Gesellschaft zu integrieren.
+
+Von Herzen: Vielen Dank für Ihre Hilfe, Ihr Vertrauen und Ihre Solidarität!
+
+![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740740679/IMG_0643_ubkzpx.jpg)
+
+![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740740787/5_rn3gz2.jpg)
