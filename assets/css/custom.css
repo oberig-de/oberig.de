@@ -23,13 +23,8 @@ html[lang="uk"] .article .font-bold {
 }
 
 html[lang="de"] .main-menu,
-html[lang="de"] h1, 
-html[lang="de"] h2, 
-html[lang="de"] h3, 
-html[lang="de"] h4, 
-html[lang="de"] h5, 
-html[lang="de"] h6,
-html[lang="de"] .article .font-bold {
+html[lang="de"] h1,
+html[lang="de"] h2.mt-0.mb-0.text-xl.text-neutral-800.dark\:text-neutral-300 {
     font-family: 'KyivRegion', sans-serif;
 }
 
