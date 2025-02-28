@@ -2,7 +2,7 @@
 title: СПІЛКА «ОБЕРІГ»
 description: Про спілку «Оберіг»
 showDate: false
-draft: true
+draft: false
 featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1740394166/featured_chagg5.jpg
 ---
 ## ПРО НАС
