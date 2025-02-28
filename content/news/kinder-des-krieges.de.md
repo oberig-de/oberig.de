@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Benefizausstellung „Träume der Kinder des Krieges“ in Hanau: Kunstwerke
   ukrainischer Flüchtlingskinder"
 description: kinder-des-krieges
