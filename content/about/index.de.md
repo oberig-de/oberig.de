@@ -53,6 +53,7 @@ Es ist entscheidend, den Respekt vor den eigenen Wurzeln zu lehren, die Sprache 
 Um den langfristigen Erfolg unseres Bildungsprojekts sicherzustellen, suchen wir folgende Unterstützung:
 
 **Räumlichkeiten**
+
 Wir benötigen einen voll ausgestatteten, möblierten Unterrichtsraum für regelmäßige Schulungen von Gruppen ab 10 Personen. Idealerweise sollten die Räumlichkeiten mindestens fünf separate Unterrichtsräume umfassen und samstags von 10:00 bis 16:00 Uhr verfügbar sein.
 
 **Finanzielle Unterstützung**
