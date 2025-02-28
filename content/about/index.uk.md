@@ -66,7 +66,7 @@ featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1740394166/feat
 
 Ми раді можливостям співпраці та підтримки, щоб стійко впровадити цей важливий проєкт.
 
-!\[](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740394167/img1_xyojuo.jpg)
+![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740394167/img1_xyojuo.jpg)
 
 ## ПАРТНЕРИ
 
