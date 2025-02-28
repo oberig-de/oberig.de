@@ -4,7 +4,7 @@ title: "Благодійна виставка «Мрії дітей війни»
   українських дітей-біженців"
 slug: kinder-des-krieges
 description: "1"
-featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1740750753/01_oeeutn.jpg
+featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1740751132/photo_2025-02-21_18-03-12_hcda74.jpg
 publish_date: 2025-02-28T15:00:00.000Z
 visibleInCMS: true
 ---
