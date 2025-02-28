@@ -52,8 +52,33 @@ Kalender „Kinder malen Leben“ (2024/2025):
 
 Basierend auf Kinderzeichnungen, die Träume, Erinnerungen und Erfahrungen widerspiegeln
 
+!\[](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740485456/photo_2025-01-13_10-42-58_zfuqmb.jpg)
+
+
 Festival „Kunst am Main“ in Hanau (2024):
 
 „Ukrainisches Picknick“ mit Ausstellung, Musikauftritten und Chor-Performance am Mainufer beim Schloss Philippsruhe
 
+
+!\[](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740483950/img1_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F_glx6tc.jpg)
+
+
 Beteiligung an kulturellen Veranstaltungen des Landes Hessen
+
+
+Eine Weihnachtsfeier für Kinder, die das kreative Potenzial unserer Mitglieder freisetzte und sie
+mit deutschen und ukrainischen Weihnachtstraditionen bekannt machte.
+
+
+!\[](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740485202/photo_2025-02-09_15-41-13_sga8np.jpg)
+
+
+Wir organisierten einen ukrainischen Weihnachtsgottesdienst in der Johanneskirche in Hanau, der
+von einem Auftritt des ukrainischen Chors Koralie begleitet wurde.
+
+Wir planen regelmäßig kreative Veranstaltungen, Messen, Konzerte, Kunstausstellungen und
+die Teilnahme an Festivals zum Austausch ukrainischer und deutscher Traditionen
+durchzuführen. 
+
+
+!\[](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740484882/20250221_152457_xo41ub.jpg)
