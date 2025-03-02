@@ -15,7 +15,7 @@ Diese Werke bieten den Besuchern die Möglichkeit, die emotionalen Eindrücke de
 
 ![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740748903/19_ip6icy.jpg)
 
-Bei der feierlichen Eröffnung der Ausstellung sprachen der Vorstand der Sparkasse Hanau, , die Stadtverordnete Beate Funk, die Gründerinnen des Art 13 Creative Club Liliana Herzig und Lia Lemberg, zu den Anwesenden. Sie betonten die Bedeutung der Unterstützung für ukrainische Flüchtlingskinder und unterstrichen die Kraft der Kunst als Mittel zur Verarbeitung von Traumata und zur Förderung der Selbstentfaltung.
+Bei der feierlichen Eröffnung der Ausstellung sprachen der Leiter von der Sparkasse Hanau, Guido Braun, die Stadtverordnete Beate Funk, die Gründerinnen des Art 13 Creative Club Liliana Herzig und Lia Lemberg, zu den Anwesenden. Sie betonten die Bedeutung der Unterstützung für ukrainische Flüchtlingskinder und unterstrichen die Kraft der Kunst als Mittel zur Verarbeitung von Traumata und zur Förderung der Selbstentfaltung.
 
 ![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740750307/22_jynvvf.jpg)
 
