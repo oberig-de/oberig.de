@@ -20,8 +20,6 @@ Die Gründung des Vereins stellt eine logische Weiterentwicklung der Aktivitäte
 
 Der Kreativ Club Hanau und Art 13 e.V. engagieren sich in verschiedenen Projekten auf ehrenamtlicher Basis. Vor drei Jahren blieben ukrainische Kinder leider ohne die nötige Aufmerksamkeit und Fürsorge. Liliana Herzig und Lia Lemberg ergriffen sofort die Initiative, den „Kreativ Club“ für Kinder zu gründen. Es fanden sich Freiwillige, die kreative und angenehme Aktivitäten mit den Kindern durchführen. 
 
-Im Rahmen des Clubs wurden von 2022 bis 2024 mehr als 9 Ausstellungen, Konzerte und andere Veranstaltungen organisiert, darunter auch der Verkauf von Kinderbildern in Hanau, Rodgau und Darmstadt. Für 2025 sind weitere Ausstellungen geplant.
-
 ![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740485378/photo_2024-11-22_09-19-24_bc8xna.jpg)
 
 Der Kreativ Club Hanau und Art 13 e.V. haben das Ziel, durch Kunst bei der Erziehung,und dadurch bei der Integration der ukrainischen Kindern zu helfen-
