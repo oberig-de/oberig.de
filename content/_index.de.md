@@ -14,4 +14,4 @@ Der ukrainische Blumenkranz (Vinok) ist ein kraftvolles Symbol, das Vergangenhei
 
 
 
-{{< article link="/school/" >}}
+{{< article link="/de/school/" >}}
