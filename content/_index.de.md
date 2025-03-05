@@ -4,9 +4,7 @@ description: KULTUR-  UND BILDUNGSPROJEKT  „OBERIG“.  Integration von Ukrain
 ---
 ![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740741931/1_%D0%BF%D0%BE%D1%81%D1%82_11_page-0001_pxwzco.jpg)
 
-#  **\    KULTUR-  UND BILDUNGSPROJEKT**  
-
-#  **\    „OBERIG“**
+#  **KULTUR-  UND BILDUNGSPROJEKT „OBERIG“**
 
 
 
