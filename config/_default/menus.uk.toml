@@ -35,6 +35,12 @@
   pageRef = "contacts"
   weight = 50
 
+[[main]]
+  identifier = "instagram"
+  pre = "instagram"
+  url = "https://www.instagram.com/oberig.de"
+  weight = 200
+
 
 #[[subnavigation]]
 #  name = "An interesting topic"
