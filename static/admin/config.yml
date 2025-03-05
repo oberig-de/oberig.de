@@ -32,7 +32,6 @@ collections:
     folder: 'content'
     i18n: true
     fields:
-      - { label: 'Title', name: 'title', widget: 'string', i18n: true, hint: 'Заголовок головної сторінки. Використовується в результатах пошуку Google.' }
       - { label: 'Description', name: 'description', widget: 'string', i18n: true, required: false, hint: 'Короткий опис для головної сторінки. Відображається у результатах пошуку Google.' }
       - { label: 'Body', name: 'body', widget: 'markdown', i18n: true, required: false }
 
