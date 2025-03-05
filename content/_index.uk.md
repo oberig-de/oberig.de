@@ -14,5 +14,4 @@ description: Українсько-німецький культурно-осві
 
 
 
-
 {{< article link="/school/" >}}
