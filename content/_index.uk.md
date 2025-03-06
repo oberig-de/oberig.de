@@ -3,7 +3,7 @@ description: Українсько-німецький культурно-осві
   «Оберіг».  Інтеграція українців в Німеччині через творчі проєкти, культуру,
   освіту  та мистецтво.
 ---
-![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1741273784/IMG_3765_nbhmdd.jpg)
+![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1741274386/IMG_3765_1_aalily.jpg)
 
 <h1 align="center">Українсько-німецький культурно-освітній проєкт «ОБЕРІГ»</h1>
 
