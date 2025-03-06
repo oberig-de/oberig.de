@@ -2,7 +2,7 @@
 description: KULTUR-  UND BILDUNGSPROJEKT  „OBERIG“.  Integration von Ukrainern
   in Deutschland durch kreative Projekte, Kultur, Bildung und Kunst.
 ---
-![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1741273784/IMG_3765_nbhmdd.jpg)
+![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1741274386/IMG_3765_1_aalily.jpg)
 
 <h1 align="center">KULTUR-  UND BILDUNGSPROJEKT „OBERIG“</h1>
 
