@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Gemeinsam für Vielfalt und Demokratie:  Abschluss der Internationalen
   Wochen gegen Rassismus in Hanau"
 slug: oberig-gegen-rassismus
@@ -7,7 +7,7 @@ description: "Am 29. März nahm der ukrainische Verein „Oberig“ an der
   Abschlussveranstaltung der Internationalen Wochen gegen Rassismus in Hanau
   teil und stellte seine Projekte einem breiten Publikum vor. "
 featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1743439003/1_sgammk.jpg
-publish_date: 2025-03-31T18:57:00.000Z
+publish_date: 2025-03-31T18:58:00.000Z
 visibleInCMS: true
 ---
 ###### Am 29. März nahm der ukrainische Verein „Oberig“ an der Abschlussveranstaltung der Internationalen Wochen gegen Rassismus in Hanau teil und stellte seine Projekte einem breiten Publikum vor. Gemeinsam mit der Stadt Hanau und dem Haus der Demokratie und Vielfalt setzen wir uns aktiv für eine offene, respektvolle und inklusive Gesellschaft ein.
