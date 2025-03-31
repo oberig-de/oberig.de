@@ -33,3 +33,5 @@ Bleiben Sie dran – wir haben noch viel vor!
 ![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1743439004/8_bc8ruh.jpg)
 
 ![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1743439003/4_abi7up.jpg)
+
+![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1743439003/2_dz2xjx.jpg)
