@@ -12,6 +12,8 @@ visibleInCMS: true
 ---
 ###### Am 29. März nahm der ukrainische Verein „Oberig“ an der Abschlussveranstaltung der Internationalen Wochen gegen Rassismus in Hanau teil und stellte seine Projekte einem breiten Publikum vor. Gemeinsam mit der Stadt Hanau und dem Haus der Demokratie und Vielfalt setzen wir uns aktiv für eine offene, respektvolle und inklusive Gesellschaft ein.
 
+![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1743439003/2_dz2xjx.jpg)
+
 Ein besonderer Höhepunkt der Veranstaltung war die Präsentation unserer Ausstellung „Träume der Kriegskinder“, die bereits das zweite Jahr in Folge im Rahmen der Aktionswochen stattfand. Die Ausstellung zeigt eindrucksvolle Zeichnungen ukrainischer Kinder, die vor dem Krieg fliehen mussten. Diese Kunstwerke geben Einblicke in die Erfahrungen und Hoffnungen der Kinder und erzählen von ihrem tiefen Wunsch nach Frieden und Stabilität.
 
 ![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1743439004/IMG-20250330-WA0002_yscg05.jpg)
@@ -34,4 +36,4 @@ Bleiben Sie dran – wir haben noch viel vor!
 
 ![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1743439003/4_abi7up.jpg)
 
-![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1743439003/2_dz2xjx.jpg)
+
