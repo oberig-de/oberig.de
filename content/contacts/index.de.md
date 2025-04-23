@@ -10,5 +10,5 @@ showHero: false
 
 +380509425112 
 
-E-Mail: kontakt@oberig.de
+E-Mail: oberig.hanau.de@gmail.com
 
