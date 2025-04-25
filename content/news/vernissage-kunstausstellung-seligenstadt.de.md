@@ -2,7 +2,7 @@
 draft: false
 title: Träume von Kindern des Krieges. Vernissage der Kunstausstellung in Seligenstadt
 slug: vernissage-kunstausstellung-seligenstadt
-description: "1"
+description: ""
 featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1745586754/TR%C3%84UME_VON_KINDERN_DES_KRIEGES_1_wayrwp.jpg
 publish_date: 2025-04-25T08:09:00.000Z
 visibleInCMS: true
