@@ -3,7 +3,7 @@ draft: false
 title: "Благодійна виставка «Мрії дітей війни» в місті Ханау: твори мистецтва
   українських дітей-біженців"
 slug: kinder-des-krieges
-description: "1"
+description: ""
 featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1740748906/17_ufs1gr.jpg
 publish_date: 2025-02-28T15:00:00.000Z
 visibleInCMS: true
