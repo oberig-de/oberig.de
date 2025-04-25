@@ -2,6 +2,7 @@
 draft: false
 title: Запрошуємо на виставку «Мрії дітей війни» у Зелігенштадті
 slug: vernissage-kunstausstellung-seligenstadt
+description: "1"
 featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1745586137/TR%C3%84UME_VON_KINDERN_DES_KRIEGES_h1zo9m.jpg
 publish_date: 2025-04-25T08:09:00.000Z
 visibleInCMS: true
