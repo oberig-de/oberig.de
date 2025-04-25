@@ -2,7 +2,7 @@
 draft: false
 title: Запрошує фізико-математичний клуб "Математикум" у Ханау.
 slug: mathematikum-hanau-probestunde
-description: "2"
+description: ""
 featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1741028871/Mat_cfqn_page-0001_nwnoux.jpg
 publish_date: 2025-03-03T19:48:00.000Z
 visibleInCMS: true
