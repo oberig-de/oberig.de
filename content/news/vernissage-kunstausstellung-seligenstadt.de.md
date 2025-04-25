@@ -3,7 +3,7 @@ draft: false
 title: Träume von Kindern des Krieges. Vernissage der Kunstausstellung in Seligenstadt
 slug: vernissage-kunstausstellung-seligenstadt
 description: "1"
-featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1745586137/TR%C3%84UME_VON_KINDERN_DES_KRIEGES_h1zo9m.jpg
+featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1745586754/TR%C3%84UME_VON_KINDERN_DES_KRIEGES_1_wayrwp.jpg
 publish_date: 2025-04-25T08:09:00.000Z
 visibleInCMS: true
 ---
@@ -29,3 +29,7 @@ Wir laden herzlich ein – Familien, Pädagog:innen, Unterstützer:innen, Journa
 * Ausstellungsdauer: 29.05. – 08.06.2025
 * Musikalische Begleitung: Ukrainischer Chor „Korali“ aus Hanau
 * Eintritt frei
+
+
+
+!\[](https://res.cloudinary.com/dqzyy5upv/image/upload/v1745561006/Seligenstadt_Hans-Memling-Haus_Gro%C3%9Fe_Maingasse_7_1_mz0qpk.jpg)
