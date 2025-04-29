@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 slug: ukrainischer-chor-korali
 title: Ukrainischer Chor Korali
 description: "Korali ist ein gemischter ukrainischer Chor aus Hanau unter der

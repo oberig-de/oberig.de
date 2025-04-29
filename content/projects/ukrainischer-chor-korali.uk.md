@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 slug: ukrainischer-chor-korali
 title: Український хор "Коралі"
 description: «Korali» — це змішаний український хор з м. Ганау під керівництвом
