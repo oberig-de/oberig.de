@@ -5,7 +5,7 @@ title: Ukrainischer Chor Korali
 description: "Korali ist ein gemischter ukrainischer Chor aus Hanau unter der
   Leitung von Oleksandra Smirnova. "
 weight: 1
-featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1745925954/5_qhvfuq.jpg
+featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1745927660/5_1_inhgud.jpg
 visibleInCMS: true
 ---
 "Korali" ist ein gemischter ukrainischer Chor aus Hanau, gegründet im Oktober 2023 unter der Leitung von Oleksandra Smirnova. 
@@ -38,3 +38,5 @@ Wir freuen uns immer über neue Gesichter!
 
 Ob mit oder ohne Chorerfahrung – wenn du gerne singst und Teil einer offenen, engagierten Gemeinschaft sein möchtest, bist du bei uns genau richtig.
 
+https://www.instagram.com/ukr.korali/
+koralichor@gmail.com

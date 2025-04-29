@@ -5,7 +5,7 @@ title: Український хор "Коралі"
 description: «Korali» — це змішаний український хор з м. Ганау під керівництвом
   Олександри Смірнової.
 weight: 1
-featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1745925954/5_qhvfuq.jpg
+featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1745927660/5_1_inhgud.jpg
 visibleInCMS: true
 ---
 «Korali» — це змішаний український хор з м. Ганау, заснований у жовтні 2023 року під керівництвом Олександри Смірнової.
@@ -35,5 +35,8 @@ visibleInCMS: true
 Ми завжди раді новим обличчям!
 
 Не маєш досвіду у хорі? Не проблема! Якщо ти любиш співати й хочеш стати частиною відкритої, дружньої українсько-німецької спільноти — тобі до нас.
+
+https://www.instagram.com/ukr.korali/
+Для запису звертатись koralichor@gmail.com
 
 
