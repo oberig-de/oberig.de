@@ -30,5 +30,5 @@ visibleInCMS: true
 * Музичний супровід: український хор «Коралі»
 * Вхід вільний
 
-
 ![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1745561006/Seligenstadt_Hans-Memling-Haus_Gro%C3%9Fe_Maingasse_7_1_mz0qpk.jpg)
+

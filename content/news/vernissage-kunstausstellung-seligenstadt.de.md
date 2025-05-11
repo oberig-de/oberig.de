@@ -30,6 +30,4 @@ Wir laden herzlich ein – Familien, Pädagog:innen, Unterstützer:innen, Journa
 * Musikalische Begleitung: Ukrainischer Chor „Korali“ aus Hanau
 * Eintritt frei
 
-
-
-!\[](https://res.cloudinary.com/dqzyy5upv/image/upload/v1745561006/Seligenstadt_Hans-Memling-Haus_Gro%C3%9Fe_Maingasse_7_1_mz0qpk.jpg)
+![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1745561006/Seligenstadt_Hans-Memling-Haus_Gro%C3%9Fe_Maingasse_7_1_mz0qpk.jpg)
