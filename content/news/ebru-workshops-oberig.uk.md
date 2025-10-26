@@ -2,8 +2,7 @@
 draft: false
 title: Майстер-класи з Ебру — мистецтва малювання на воді
 slug: ebru-workshops-oberig
-description: В Ханау відбулися творчі майстер-класи з Ебру — стародавнього
-  мистецтва малювання на воді
+description: ""
 featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1761477673/photo_2025-10-26_12-14-11_vewq5e.jpg
 publish_date: 2025-10-26T12:30:00.000+02:00
 visibleInCMS: true
