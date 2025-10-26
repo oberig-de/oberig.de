@@ -1,7 +1,7 @@
 ---
 title: SCHULE
 date: 2025-02-20T17:48:10+01:00
-description: Samstagsschule «Oberig»
+description: Schule «Oberig»
 featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1740394486/featured_apkc1d.jpg
 showdate: null
 ---
