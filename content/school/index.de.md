@@ -1,12 +1,13 @@
 ---
-title: SAMSTAGSSCHULE
+title: SCHULE
 date: 2025-02-20T17:48:10+01:00
 description: Samstagsschule «Oberig»
 featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1740394486/featured_apkc1d.jpg
+showdate: null
 ---
 **Unser Bildungsprojekt läuft im Testbetrieb seit Januar 2025.**
 
-Jeden Samstag von 10:00 bis 15:00 Uhr lernen die Kinder Ukrainisch und Deutsch und gestalten unter Anleitung von Lehrern Kunst. Die Treffen finden im Zentrum von Hanau statt.
+In ihrer Freizeit lernen die Kinder unter Anleitung von Lehrern Ukrainisch und Deutsch, Ethnographie, ukrainische Traditionen, interessante Mathematik und beschäftigen sich mit kreativen Aktivitäten. Die Treffen finden im Zentrum von Hanau statt.
 
 ![](https://res.cloudinary.com/dqzyy5upv/image/upload/v1740394487/img1_dp2euk.jpg)
 
