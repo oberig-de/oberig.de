@@ -7,7 +7,7 @@ featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1761477673/phot
 publish_date: 2025-10-26T12:30:00.000+02:00
 visibleInCMS: true
 ---
-### Під час осінніх канікул у Ханау відбулися творчі майстер-класи з Ебру — стародавнього мистецтва малювання на воді, яке поєднує споглядання, рух і натхнення.
+###### Під час осінніх канікул у Ханау відбулися творчі майстер-класи з Ебру — стародавнього мистецтва малювання на воді, яке поєднує споглядання, рух і натхнення.
 
 Захід проведено організацією Forum Interkultureller Dialog (FIDeV) за підтримки Hessisches Ministerium für Wissenschaft und Forschung, Kunst und Kultur у співпраці з українською спільнотою Oberig e.V. Hanau.
 

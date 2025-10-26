@@ -7,14 +7,13 @@ featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1761477673/phot
 publish_date: 2025-10-26T12:30:00.000+02:00
 visibleInCMS: true
 ---
-### In den Herbstferien fanden in Hanau inspirierende Ebru-Workshops – Malerei auf Wasser statt.
+###### In den Herbstferien fanden in Hanau inspirierende Ebru-Workshops – Malerei auf Wasser statt.
 
 Die Veranstaltungen wurden vom Forum Interkultureller Dialog (FIDeV) mit Unterstützung des Hessischen Ministeriums für Wissenschaft und Forschung, Kunst und Kultur in Zusammenarbeit mit der ukrainischen Gemeinschaft Oberig e.V. Hanau organisiert.
 
 Mehr als 20 Kinder nahmen teil und entdeckten die faszinierende Technik des Ebru – eine Kunstform, die Bewegung, Ruhe und Kreativität vereint. 
 
 Die Teilnehmenden mischten natürliche Farben, gestalteten Ornamente, Blumen und Fantasiemotive auf der Wasseroberfläche und verwandelten ihre Emotionen in farbenfrohe Bilder.
-
 
 So entstand ein Raum für Begegnung, Austausch und kulturelles Lernen, in dem Kunst zu einer Sprache der Verständigung wurde.
 
