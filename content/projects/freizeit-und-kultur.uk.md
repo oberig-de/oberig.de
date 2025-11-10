@@ -1,7 +1,7 @@
 ---
 draft: false
 slug: freizeit-und-kultur
-title: ДОСУГ ТА КУЛЬТУРА
+title: ДОЗВІЛЛЯ ТА КУЛЬТУРА
 weight: 3
 featureimage: https://res.cloudinary.com/dqzyy5upv/image/upload/v1740411842/featured_pv9qqe.jpg
 visibleInCMS: true
